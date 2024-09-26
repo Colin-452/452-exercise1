@@ -2,11 +2,6 @@
 <html lang="en">
      <head>       
         <meta charset="UTF-8">
-        <title>Einstein Rings</title>
-        <style>
-            h2{color: darkblue;}
-            a{color: green;font-style: italic;}
-        </style>
      </head>
      <body>
         <h2>Einstein Rings</h2>
